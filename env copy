@@ -1,6 +1,0 @@
-NODE_RPC_URL=http://<ip>:<port>
-NODE_RPC_USER=<username>
-NODE_RPC_PASS=<password>
-TESTNET=false
-TESTNET=true
-FEE_PER_KB=1000000
